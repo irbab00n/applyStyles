@@ -1,5 +1,5 @@
 {
-  "name": "applystyles",
+  "name": "cos-bytes",
   "version": "1.0.0",
   "description": "This package allows for the creation of extended CSS-in-JS style objects to be used in React to style elements.",
   "main": "index.js",
