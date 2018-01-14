@@ -1,0 +1,26 @@
+{
+  "name": "applystyles",
+  "version": "1.0.0",
+  "description": "This package allows for the creation of extended CSS-in-JS style objects to be used in React to style elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irbab00n/applyStyles.git"
+  },
+  "keywords": [
+    "CSS-in-JS",
+    "CSS",
+    "JS",
+    "Style",
+    "extender"
+  ],
+  "author": "Thomas Cosby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irbab00n/applyStyles/issues"
+  },
+  "homepage": "https://github.com/irbab00n/applyStyles#readme"
+}
